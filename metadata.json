@@ -1,0 +1,6 @@
+{
+  "name": "NovaStat",
+  "description": "Plateforme avancée de statistiques musicales, classements Billboard, certifications, Panthéon, records et moteur de scrobble.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
